@@ -32,7 +32,7 @@ An advanced web-based hosting control panel specifically designed for Ubuntu 24.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ubuntu-control-panel.git
+   git clone https://github.com/aamirxs/ubuntu-control-panel.git
    cd ubuntu-control-panel
    ```
 
@@ -79,7 +79,7 @@ An advanced web-based hosting control panel specifically designed for Ubuntu 24.
 For quick deployment on Ubuntu:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/ubuntu-control-panel/main/deploy.sh | bash
+curl -fsSL https://raw.githubusercontent.com/aamirxs/ubuntu-control-panel/main/deploy.sh | bash
 ```
 
 ## Security Considerations
